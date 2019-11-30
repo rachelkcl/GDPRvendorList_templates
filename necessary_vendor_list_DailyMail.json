@@ -1,0 +1,73 @@
+{
+  "NecessaryVersion": 1,
+  "lastUpdated": "2018-05-22T08:40:20Z",
+  "description": "These companies help us to provide the most appropriate content and constantly improve the site.",
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Akamai",
+      "policyUrl": "https://www.akamai.com/uk/en/privacy-policies/",
+      "description": "Akamai is a Content Delivery Network (CDN) which caches our site to provide our content as close to the readers device as possible, this provides fast response times and allows us to provide relevant content based on device and location"
+    },
+    {
+      "id": 2,
+      "name": "Associated Newspapers Ltd. (MailOnline, ThisIsMoney & Metro)",
+      "policyUrl": "/privacy",
+      "description": "Used to manage our in-house tracking and analytics. Used for instance, to keep control of your cookie preference settings"
+    },
+    {
+      "id": 3,
+      "name": "Amazon Web Services, Inc (“AWS”)",
+      "policyUrl": "https://aws.amazon.com/privacy/?nc1=f_pr",
+      "description": "AWS is a Content Delivery Network (CDN) which caches our site to provide our content as close to the readers device as possible, this provides fast response times and allows us to provide relevant content based on device and location"
+    },
+    {
+      "id": 4,
+      "name": "Adobe (Omniture)",
+      "policyUrl": "https://www.adobe.com/uk/privacy.html",
+      "description": "Omniture provides website analytics which allow us to ensure that our service is available for all readers. Omniture helps us understand what content is relevant to our readers"
+    },
+    {
+      "id": 5,
+      "name": "Google Analytics",
+      "policyUrl": "https://policies.google.com/privacy?gl=GB&hl=en",
+      "description": "Google Analytics helps us ensure that our service is available for all readers by sampling some user requests"
+    },
+    {
+      "id": 6,
+      "name": "Crashlytics",
+      "policyUrl": "https://try.crashlytics.com/terms/privacy-policy.pdf",
+      "description": "Crashlytics provides us insight into why our native apps crash on your device, this allows us to refine the app to improve the experience"
+    },
+    {
+      "id": 7,
+      "name": "Fabric",
+      "policyUrl": "https://fabric.io/terms?locale=en-us&utm_campaign=fabric-marketing&utm_medium=natural",
+      "description": "Fabric provides us insight into why our native apps crash on your device, this allows us to refine the app to improve the experience"
+    },
+    {
+      "id": 8,
+      "name": "Integral Ad Science",
+      "policyUrl": "https://integralads.com/uk/privacy-policy/",
+      "description": "Advertising fraud detection and prevention.  Please Note: This does not cover brand-safety or advertising measurement products, which should not track users in order to operate"
+    },
+    {
+      "id": 9,
+      "name": "Lotame Analytics",
+      "policyUrl": "https://www.lotame.com/about-lotame/privacy/lotames-products-services-privacy-policy/",
+      "description": "Lotame provides website analytics which allow us to ensure that our service is available for all readers. Lotame helps us understand what content is relevant to our readers.  Please Note: This usage for Lotame is different from the interest-based advertising purposes, which can be controlled through our advertising settings. We will not provide interest-based advertising purposes unless we gather your consent to do so"
+    },
+    {
+      "id": 10,
+      "name": "Hockey app",
+      "policyUrl": "https://go.microsoft.com/fwlink/?linkid=248681&clcid=0x409",
+      "description": "Hockey App provides us insight into why our native apps crash on your device, this allows us to refine the app to improve the experience"
+    },
+    {
+      "id": 11,
+      "name": "Comscore",
+      "policyUrl": "http://www.scorecardresearch.com/privacy.aspx",
+      "description": "Comscore helps us to understand what content is relevant to our readers. It provides benchmarking so that we can compare how engaging our content is against other websites"
+    }
+  ]
+}
